@@ -1,0 +1,13 @@
+data:
+  train: data/raw/train.csv
+  later: data/raw/later.csv
+  holdout: data/raw/holdout_features.csv
+
+cleaning:
+  sentinel_column: lab_tests_pending
+  sentinel_value: -1
+  typo_threshold: 400
+  typo_factor: 10
+  stuck_column: doctors_on_duty
+  stuck_start: "2026-03-29"
+  stuck_end: "2026-04-19"
