@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.lnk
+.pytest_cache/
+mlartifacts/
+mlruns/

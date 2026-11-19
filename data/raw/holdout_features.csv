@@ -1,0 +1,251 @@
+record_id,date,patients_ahead,doctors_on_duty,arrival_hour,avg_consult_min,lab_tests_pending,distance_km,department,wing
+R50001,2026-09-01,9,9,11,5.1,20,43.3,Paediatrics,Old Wing
+R50002,2026-09-01,70,4,17,15.2,36,41.4,Paediatrics,Annexe
+R50003,2026-09-01,19,7,9,12.4,36,24.3,Paediatrics,New Wing
+R50004,2026-09-01,13,3,11,18.5,3,47.5,General,Annexe
+R50005,2026-09-01,65,10,18,15.7,37,45.6,Paediatrics,New Wing
+R50006,2026-09-02,52,6,9,5.1,38,22.2,Orthopaedics,Annexe
+R50007,2026-09-02,62,7,12,7.0,14,38.2,General,Annexe
+R50008,2026-09-02,18,9,8,17.1,34,43.4,General,New Wing
+R50009,2026-09-02,63,3,16,14.8,15,26.6,General,Annexe
+R50010,2026-09-02,70,7,8,9.0,9,20.9,Paediatrics,Annexe
+R50011,2026-09-02,6,1,13,7.3,21,36.2,Orthopaedics,Annexe
+R50012,2026-09-02,54,7,12,19.9,40,31.9,General,New Wing
+R50013,2026-09-03,77,6,16,19.4,11,36.1,Paediatrics,New Wing
+R50014,2026-09-03,15,6,15,7.3,1,57.3,General,New Wing
+R50015,2026-09-03,3,3,16,16.5,2,29.2,Paediatrics,New Wing
+R50016,2026-09-03,31,9,9,14.3,35,30.5,Orthopaedics,Old Wing
+R50017,2026-09-03,53,2,10,6.2,3,19.3,General,Annexe
+R50018,2026-09-03,48,5,10,4.3,0,34.3,General,Annexe
+R50019,2026-09-03,35,9,10,12.0,26,44.0,Orthopaedics,Old Wing
+R50020,2026-09-03,57,3,13,12.0,2,19.7,General,Annexe
+R50021,2026-09-03,19,10,16,17.3,31,57.4,General,Old Wing
+R50022,2026-09-04,72,9,9,18.5,28,26.8,General,Annexe
+R50023,2026-09-04,45,2,12,17.0,3,28.9,General,New Wing
+R50024,2026-09-04,57,5,11,8.8,5,48.8,General,Old Wing
+R50025,2026-09-04,51,3,16,8.8,9,33.6,Paediatrics,Annexe
+R50026,2026-09-04,8,8,12,13.4,9,55.5,Paediatrics,Annexe
+R50027,2026-09-04,36,8,10,5.8,21,31.1,General,Old Wing
+R50028,2026-09-04,66,3,14,5.6,11,21.6,General,Annexe
+R50029,2026-09-04,9,3,13,13.7,29,27.3,Paediatrics,New Wing
+R50030,2026-09-04,76,5,14,9.0,30,33.3,Paediatrics,Old Wing
+R50031,2026-09-04,18,6,12,18.7,2,40.0,Paediatrics,New Wing
+R50032,2026-09-04,57,9,15,16.5,16,24.9,General,Old Wing
+R50033,2026-09-05,5,9,13,13.1,10,36.1,Orthopaedics,Annexe
+R50034,2026-09-05,63,7,15,11.7,34,36.8,Paediatrics,Annexe
+R50035,2026-09-05,2,2,16,12.4,40,50.1,Paediatrics,Old Wing
+R50036,2026-09-05,72,8,11,19.9,7,25.8,Orthopaedics,Old Wing
+R50037,2026-09-05,51,5,9,17.1,30,51.7,Orthopaedics,New Wing
+R50038,2026-09-05,65,9,10,15.5,31,24.0,Orthopaedics,Annexe
+R50039,2026-09-05,74,3,11,16.5,32,49.1,Paediatrics,Old Wing
+R50040,2026-09-05,38,4,12,4.6,7,48.3,General,New Wing
+R50041,2026-09-06,55,9,17,17.1,9,50.2,General,Old Wing
+R50042,2026-09-06,43,4,16,12.9,12,32.4,General,Annexe
+R50043,2026-09-06,27,6,9,16.6,8,20.7,Paediatrics,New Wing
+R50044,2026-09-06,59,3,13,12.3,7,26.2,Paediatrics,Old Wing
+R50045,2026-09-06,64,5,18,14.2,25,20.7,Paediatrics,Old Wing
+R50046,2026-09-06,32,8,12,18.0,17,39.7,General,New Wing
+R50047,2026-09-06,48,9,14,17.8,22,57.9,General,New Wing
+R50048,2026-09-07,6,8,12,7.7,23,31.5,Orthopaedics,New Wing
+R50049,2026-09-07,36,4,15,19.8,4,40.1,Orthopaedics,New Wing
+R50050,2026-09-07,13,8,10,6.5,12,48.3,Orthopaedics,New Wing
+R50051,2026-09-07,77,9,14,17.9,24,21.8,General,Old Wing
+R50052,2026-09-07,45,3,12,14.0,30,19.1,Paediatrics,New Wing
+R50053,2026-09-07,19,2,10,13.1,13,19.8,Orthopaedics,Annexe
+R50054,2026-09-07,66,2,13,13.7,24,49.8,Orthopaedics,Annexe
+R50055,2026-09-08,77,1,13,19.7,20,51.3,Paediatrics,Annexe
+R50056,2026-09-08,13,3,16,4.1,33,19.4,Orthopaedics,Annexe
+R50057,2026-09-08,24,7,14,16.0,18,26.6,Paediatrics,Annexe
+R50058,2026-09-08,39,8,8,9.0,18,24.9,Orthopaedics,Old Wing
+R50059,2026-09-08,39,3,10,5.4,0,58.4,General,Annexe
+R50060,2026-09-08,44,3,17,10.2,29,24.0,General,Annexe
+R50061,2026-09-08,25,2,12,17.6,26,42.7,Orthopaedics,Annexe
+R50062,2026-09-08,70,7,10,9.9,12,49.7,Paediatrics,Annexe
+R50063,2026-09-08,61,5,17,9.8,24,58.2,Orthopaedics,Annexe
+R50064,2026-09-08,24,4,11,8.1,23,42.7,Paediatrics,Annexe
+R50065,2026-09-08,26,5,16,13.6,15,19.2,Orthopaedics,New Wing
+R50066,2026-09-08,29,9,16,7.5,16,25.0,Orthopaedics,Annexe
+R50067,2026-09-09,72,9,11,17.3,9,43.1,Paediatrics,Old Wing
+R50068,2026-09-09,13,6,12,8.4,23,55.5,Orthopaedics,Old Wing
+R50069,2026-09-09,7,8,13,4.7,18,39.7,Paediatrics,Annexe
+R50070,2026-09-09,61,8,11,19.1,0,47.5,General,New Wing
+R50071,2026-09-09,23,4,11,14.6,30,55.3,General,New Wing
+R50072,2026-09-09,4,9,15,9.7,39,36.3,Paediatrics,Old Wing
+R50073,2026-09-10,67,5,8,7.0,13,38.0,General,Annexe
+R50074,2026-09-10,0,4,17,19.6,7,43.8,General,New Wing
+R50075,2026-09-10,59,3,10,19.1,26,53.8,General,Old Wing
+R50076,2026-09-10,70,9,18,4.1,3,29.8,General,Annexe
+R50077,2026-09-10,64,6,8,16.6,3,47.9,Orthopaedics,New Wing
+R50078,2026-09-11,24,7,17,6.3,39,41.0,Paediatrics,Annexe
+R50079,2026-09-11,49,8,16,12.0,23,37.2,Orthopaedics,Old Wing
+R50080,2026-09-11,51,8,14,9.2,9,58.0,Orthopaedics,Annexe
+R50081,2026-09-11,47,4,16,16.3,23,47.5,General,Old Wing
+R50082,2026-09-11,36,5,18,5.2,29,19.6,General,New Wing
+R50083,2026-09-11,38,10,14,5.5,15,54.3,General,Annexe
+R50084,2026-09-11,18,6,14,19.0,40,55.7,Orthopaedics,New Wing
+R50085,2026-09-11,59,6,8,8.1,18,48.2,Paediatrics,Old Wing
+R50086,2026-09-12,69,8,13,11.7,15,22.1,Orthopaedics,Old Wing
+R50087,2026-09-12,18,8,14,11.7,8,46.9,General,Annexe
+R50088,2026-09-12,14,3,9,13.9,33,22.8,Paediatrics,Annexe
+R50089,2026-09-12,9,10,15,8.6,16,43.5,Paediatrics,Old Wing
+R50090,2026-09-12,47,3,13,8.7,13,27.0,Orthopaedics,Old Wing
+R50091,2026-09-12,74,4,13,6.6,2,50.2,Paediatrics,Annexe
+R50092,2026-09-12,55,7,16,8.1,38,33.5,Paediatrics,Annexe
+R50093,2026-09-12,2,2,13,17.2,40,29.7,Paediatrics,Old Wing
+R50094,2026-09-12,6,5,11,5.9,1,55.9,Orthopaedics,New Wing
+R50095,2026-09-12,51,6,16,10.9,17,30.4,Orthopaedics,New Wing
+R50096,2026-09-13,73,3,14,18.9,7,37.9,Paediatrics,Old Wing
+R50097,2026-09-13,16,2,9,10.3,34,48.3,Orthopaedics,Old Wing
+R50098,2026-09-13,19,3,17,16.2,36,47.8,Paediatrics,New Wing
+R50099,2026-09-13,44,8,9,6.4,23,27.1,Orthopaedics,New Wing
+R50100,2026-09-13,10,5,9,6.3,10,24.9,Orthopaedics,Old Wing
+R50101,2026-09-13,45,9,13,15.7,16,40.7,Paediatrics,New Wing
+R50102,2026-09-13,48,8,13,15.9,14,33.4,Orthopaedics,New Wing
+R50103,2026-09-13,21,5,11,11.9,5,46.8,Paediatrics,Annexe
+R50104,2026-09-13,26,4,14,4.5,16,53.6,Orthopaedics,New Wing
+R50105,2026-09-13,53,9,8,16.2,22,28.0,Paediatrics,New Wing
+R50106,2026-09-14,62,2,9,4.2,34,20.0,General,Old Wing
+R50107,2026-09-14,23,2,8,8.4,22,54.6,Orthopaedics,Annexe
+R50108,2026-09-14,44,9,17,9.4,37,52.4,Orthopaedics,New Wing
+R50109,2026-09-14,47,9,12,10.0,34,46.1,Orthopaedics,Old Wing
+R50110,2026-09-14,54,8,15,4.7,28,29.7,Paediatrics,Old Wing
+R50111,2026-09-14,22,9,9,9.4,15,37.0,Paediatrics,Annexe
+R50112,2026-09-14,6,7,10,15.6,38,32.6,Paediatrics,New Wing
+R50113,2026-09-15,76,6,9,6.7,20,24.1,Orthopaedics,New Wing
+R50114,2026-09-15,27,7,12,10.2,25,25.4,Orthopaedics,New Wing
+R50115,2026-09-15,33,8,13,19.4,24,52.5,Paediatrics,New Wing
+R50116,2026-09-15,39,7,18,13.6,1,28.7,Paediatrics,Annexe
+R50117,2026-09-15,76,5,13,5.2,37,47.6,Paediatrics,Annexe
+R50118,2026-09-15,36,6,17,9.7,35,52.8,Paediatrics,Old Wing
+R50119,2026-09-15,37,8,8,19.1,20,35.4,Paediatrics,Old Wing
+R50120,2026-09-15,39,10,15,14.6,13,36.4,Paediatrics,Annexe
+R50121,2026-09-16,67,2,10,19.0,13,30.3,Paediatrics,Old Wing
+R50122,2026-09-16,64,2,17,8.4,39,40.4,Orthopaedics,Old Wing
+R50123,2026-09-16,74,4,11,12.7,29,31.9,Orthopaedics,Old Wing
+R50124,2026-09-16,42,7,9,15.5,17,47.4,Orthopaedics,Old Wing
+R50125,2026-09-16,61,9,14,5.9,40,45.0,General,New Wing
+R50126,2026-09-16,65,3,10,18.0,15,26.2,Orthopaedics,Annexe
+R50127,2026-09-16,42,2,13,15.0,36,33.9,Paediatrics,Old Wing
+R50128,2026-09-16,4,3,17,14.2,34,22.1,Paediatrics,Old Wing
+R50129,2026-09-17,19,8,12,11.9,25,43.0,Orthopaedics,Old Wing
+R50130,2026-09-17,39,9,9,15.8,13,52.8,Orthopaedics,New Wing
+R50131,2026-09-17,9,10,14,5.6,22,33.6,Orthopaedics,Old Wing
+R50132,2026-09-17,10,3,18,6.3,15,55.2,Orthopaedics,Old Wing
+R50133,2026-09-17,58,9,9,6.3,17,48.5,Paediatrics,Annexe
+R50134,2026-09-17,42,9,9,17.2,20,33.8,Paediatrics,Annexe
+R50135,2026-09-17,27,1,16,14.4,36,26.9,Paediatrics,Annexe
+R50136,2026-09-17,30,10,9,4.4,1,30.8,General,Annexe
+R50137,2026-09-17,44,2,8,16.7,19,50.4,Paediatrics,Annexe
+R50138,2026-09-17,21,8,13,8.2,37,47.4,Paediatrics,New Wing
+R50139,2026-09-17,73,5,16,14.7,4,52.1,Paediatrics,New Wing
+R50140,2026-09-17,5,5,8,14.0,38,29.6,Paediatrics,Annexe
+R50141,2026-09-18,5,7,18,14.6,2,24.5,Orthopaedics,New Wing
+R50142,2026-09-18,58,5,17,5.6,17,42.6,Paediatrics,Old Wing
+R50143,2026-09-18,55,5,9,16.4,34,28.6,Paediatrics,New Wing
+R50144,2026-09-18,6,7,10,19.2,6,34.5,Paediatrics,New Wing
+R50145,2026-09-18,30,1,14,5.7,15,36.6,Paediatrics,New Wing
+R50146,2026-09-18,22,4,10,12.8,15,25.6,Paediatrics,Annexe
+R50147,2026-09-19,42,1,17,19.4,13,32.0,Orthopaedics,New Wing
+R50148,2026-09-19,78,4,12,6.8,20,35.3,Orthopaedics,Annexe
+R50149,2026-09-19,54,7,16,10.6,12,45.2,Paediatrics,New Wing
+R50150,2026-09-19,31,5,14,13.9,0,19.4,Paediatrics,New Wing
+R50151,2026-09-19,44,8,16,17.3,15,31.7,General,Old Wing
+R50152,2026-09-19,6,1,14,6.1,12,47.8,Paediatrics,Old Wing
+R50153,2026-09-19,1,10,12,11.1,28,58.5,Paediatrics,New Wing
+R50154,2026-09-19,53,2,10,12.4,15,58.2,Paediatrics,Annexe
+R50155,2026-09-19,9,8,11,9.9,28,53.3,General,New Wing
+R50156,2026-09-20,41,1,13,11.5,6,22.8,Orthopaedics,New Wing
+R50157,2026-09-20,21,6,17,13.5,32,44.3,Orthopaedics,New Wing
+R50158,2026-09-20,28,8,8,4.7,19,40.1,General,Old Wing
+R50159,2026-09-20,54,3,9,17.5,5,20.5,Orthopaedics,Old Wing
+R50160,2026-09-20,25,7,10,16.4,26,54.2,Paediatrics,Old Wing
+R50161,2026-09-20,0,7,10,13.0,3,45.1,Paediatrics,Annexe
+R50162,2026-09-20,51,5,12,18.9,13,33.1,Orthopaedics,Annexe
+R50163,2026-09-21,3,9,15,6.8,18,40.4,Orthopaedics,Old Wing
+R50164,2026-09-21,68,6,13,7.7,2,47.8,Paediatrics,Annexe
+R50165,2026-09-21,69,3,12,12.9,26,26.7,Paediatrics,Annexe
+R50166,2026-09-21,32,8,16,11.7,32,47.8,General,Old Wing
+R50167,2026-09-21,36,1,12,4.2,18,43.0,Paediatrics,Old Wing
+R50168,2026-09-21,42,7,17,19.9,26,39.0,Paediatrics,New Wing
+R50169,2026-09-21,16,5,12,7.5,32,26.9,Paediatrics,Old Wing
+R50170,2026-09-21,73,6,16,13.9,27,44.9,Paediatrics,Annexe
+R50171,2026-09-21,23,10,11,12.0,23,48.5,Orthopaedics,Annexe
+R50172,2026-09-22,53,2,15,15.1,18,57.2,General,Annexe
+R50173,2026-09-22,18,5,16,14.8,24,51.9,General,Annexe
+R50174,2026-09-22,31,5,15,13.6,13,47.6,General,New Wing
+R50175,2026-09-22,27,8,16,18.8,5,46.5,Orthopaedics,Annexe
+R50176,2026-09-22,58,7,8,12.3,16,48.5,Orthopaedics,New Wing
+R50177,2026-09-22,63,7,15,8.6,27,26.9,Paediatrics,Annexe
+R50178,2026-09-22,72,10,11,12.0,3,42.5,Paediatrics,Annexe
+R50179,2026-09-22,59,4,12,12.7,33,52.6,Paediatrics,New Wing
+R50180,2026-09-22,4,5,8,9.3,3,32.1,Paediatrics,Annexe
+R50181,2026-09-22,17,1,11,14.7,4,26.1,Orthopaedics,Annexe
+R50182,2026-09-23,12,3,10,8.9,19,56.9,Orthopaedics,Old Wing
+R50183,2026-09-23,66,2,13,5.4,13,56.9,Paediatrics,New Wing
+R50184,2026-09-23,69,3,10,11.2,4,39.9,Orthopaedics,Old Wing
+R50185,2026-09-23,78,2,16,13.1,11,35.2,Orthopaedics,Annexe
+R50186,2026-09-23,14,6,14,19.2,33,23.4,Paediatrics,Annexe
+R50187,2026-09-23,66,4,11,8.4,14,34.7,General,Annexe
+R50188,2026-09-24,47,2,10,12.5,17,27.7,Orthopaedics,Old Wing
+R50189,2026-09-24,60,2,9,5.9,13,28.8,Paediatrics,Annexe
+R50190,2026-09-24,16,7,13,6.1,33,30.9,General,New Wing
+R50191,2026-09-24,58,1,11,8.1,29,39.9,Paediatrics,New Wing
+R50192,2026-09-24,66,3,16,17.6,13,22.9,Orthopaedics,Old Wing
+R50193,2026-09-25,31,4,10,19.9,32,34.9,Paediatrics,New Wing
+R50194,2026-09-25,52,4,11,18.7,30,49.1,Orthopaedics,New Wing
+R50195,2026-09-25,45,4,14,17.2,6,25.4,Orthopaedics,Annexe
+R50196,2026-09-25,21,10,17,7.7,29,40.4,Paediatrics,New Wing
+R50197,2026-09-25,73,9,16,18.2,39,55.8,Orthopaedics,Annexe
+R50198,2026-09-25,15,5,11,13.3,27,46.8,Orthopaedics,New Wing
+R50199,2026-09-25,15,5,11,16.4,35,44.5,Paediatrics,New Wing
+R50200,2026-09-25,15,7,18,14.3,6,45.4,Paediatrics,Annexe
+R50201,2026-09-25,10,3,11,16.9,20,21.8,Paediatrics,New Wing
+R50202,2026-09-26,19,5,10,16.8,39,34.1,Orthopaedics,Annexe
+R50203,2026-09-26,46,2,14,15.3,9,48.4,Paediatrics,New Wing
+R50204,2026-09-26,54,1,17,5.2,27,38.1,General,New Wing
+R50205,2026-09-26,15,7,9,19.9,13,50.2,Paediatrics,New Wing
+R50206,2026-09-26,39,3,16,16.3,1,27.1,Paediatrics,New Wing
+R50207,2026-09-26,35,9,13,14.0,13,54.6,General,Old Wing
+R50208,2026-09-26,77,9,8,4.5,25,51.2,Paediatrics,New Wing
+R50209,2026-09-26,74,2,16,11.7,9,34.0,Orthopaedics,Old Wing
+R50210,2026-09-26,55,8,10,14.1,29,36.3,Paediatrics,New Wing
+R50211,2026-09-26,45,3,13,9.5,13,37.6,Orthopaedics,Old Wing
+R50212,2026-09-26,80,10,17,17.8,13,29.5,Paediatrics,New Wing
+R50213,2026-09-26,17,5,10,16.3,12,21.2,Paediatrics,Annexe
+R50214,2026-09-26,77,8,12,12.4,32,26.4,General,Annexe
+R50215,2026-09-27,5,2,16,10.7,35,39.8,Orthopaedics,New Wing
+R50216,2026-09-27,40,2,16,12.0,4,20.4,Paediatrics,New Wing
+R50217,2026-09-27,9,6,12,19.1,23,55.5,Paediatrics,New Wing
+R50218,2026-09-27,6,8,13,18.0,12,39.6,Orthopaedics,New Wing
+R50219,2026-09-27,55,4,15,12.4,38,33.5,Paediatrics,Annexe
+R50220,2026-09-27,69,7,11,16.1,28,32.3,Paediatrics,New Wing
+R50221,2026-09-27,5,4,17,8.6,40,25.1,Paediatrics,Old Wing
+R50222,2026-09-27,27,4,15,11.3,9,49.7,Paediatrics,Annexe
+R50223,2026-09-27,75,8,17,15.9,10,30.9,Paediatrics,New Wing
+R50224,2026-09-27,40,1,16,8.1,2,29.3,General,Old Wing
+R50225,2026-09-27,37,8,16,16.6,11,39.7,General,Old Wing
+R50226,2026-09-28,23,5,13,8.9,18,22.7,Orthopaedics,Annexe
+R50227,2026-09-28,32,9,9,16.5,8,40.7,Paediatrics,Old Wing
+R50228,2026-09-28,79,4,13,10.4,18,19.5,Paediatrics,Old Wing
+R50229,2026-09-28,0,5,14,14.6,19,22.8,Paediatrics,New Wing
+R50230,2026-09-28,2,9,16,7.8,27,45.2,Orthopaedics,New Wing
+R50231,2026-09-29,13,4,13,19.5,10,57.7,Orthopaedics,New Wing
+R50232,2026-09-29,4,10,11,6.6,14,54.7,Orthopaedics,Annexe
+R50233,2026-09-29,33,5,13,10.8,9,42.8,General,New Wing
+R50234,2026-09-29,46,5,14,16.0,37,33.5,Paediatrics,Old Wing
+R50235,2026-09-29,43,9,9,19.8,0,33.2,Orthopaedics,New Wing
+R50236,2026-09-29,14,4,8,9.7,38,53.2,Orthopaedics,Old Wing
+R50237,2026-09-29,80,1,18,11.3,38,24.6,Orthopaedics,Annexe
+R50238,2026-09-29,73,2,8,18.4,25,35.3,Paediatrics,Annexe
+R50239,2026-09-29,18,8,11,18.8,24,24.1,Orthopaedics,New Wing
+R50240,2026-09-29,53,2,17,12.7,19,41.3,Paediatrics,New Wing
+R50241,2026-09-29,1,7,13,15.2,11,44.2,Paediatrics,New Wing
+R50242,2026-09-30,28,9,14,9.7,4,24.7,Paediatrics,Annexe
+R50243,2026-09-30,11,3,16,7.7,1,31.1,Orthopaedics,Annexe
+R50244,2026-09-30,66,9,14,5.5,34,54.1,General,Annexe
+R50245,2026-09-30,8,10,17,12.4,2,34.0,Paediatrics,Old Wing
+R50246,2026-09-30,37,3,14,19.4,28,39.8,General,Old Wing
+R50247,2026-09-30,34,2,15,8.5,17,21.2,Paediatrics,Annexe
+R50248,2026-09-30,57,8,10,13.8,15,37.9,Paediatrics,Annexe
+R50249,2026-09-30,43,2,9,11.0,16,28.3,General,Old Wing
+R50250,2026-09-30,45,2,8,4.8,6,49.2,General,Annexe
