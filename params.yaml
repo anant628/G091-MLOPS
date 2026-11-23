@@ -11,3 +11,18 @@ cleaning:
   stuck_column: doctors_on_duty
   stuck_start: "2026-03-29"
   stuck_end: "2026-04-19"
+
+mlflow:
+  tracking_uri: "sqlite:///mlflow.db"
+  experiment_name: "mp193-opd-wait"
+  registered_model_name: "mp193-opd-wait-model"
+  champion_alias: "champion"
+
+training:
+  seed: 42
+  cv_folds: 5
+  runs:
+    - {model: ridge, alpha: 1.0}
+    - {model: random_forest, n_estimators: 100, max_depth: 6}
+    - {model: random_forest, n_estimators: 200, max_depth: 10}
+    - {model: gradient_boosting, n_estimators: 200, learning_rate: 0.05, max_depth: 3}
