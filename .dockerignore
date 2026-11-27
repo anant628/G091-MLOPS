@@ -1,0 +1,9 @@
+# Only the files needed to serve the saved model enter the build context.
+**
+!requirements.txt
+!app/
+!app/*.py
+!models/
+!models/model.joblib
+!Dockerfile
+!.dockerignore
