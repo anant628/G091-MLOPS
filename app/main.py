@@ -7,7 +7,7 @@ from pathlib import Path
 import joblib
 import pandas as pd
 from fastapi import FastAPI
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, ConfigDict, Field
 
 MODEL_PATH = Path(__file__).resolve().parent.parent / "models" / "model.joblib"
 
@@ -35,6 +35,8 @@ if not logger.handlers:
 
 # ---------- request schema with the client's two rules ----------
 class PredictRequest(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
     patients_ahead: int
     doctors_on_duty: int
     arrival_hour: int
