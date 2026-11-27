@@ -52,3 +52,21 @@ def test_negative_lab_tests_rejected(client):
 def test_boundary_values_accepted(client):
     r = client.post("/predict", json={**VALID, "distance_km": 70, "lab_tests_pending": 0})
     assert r.status_code == 200
+
+
+def test_extra_fields_rejected_before_model(client, monkeypatch):
+    def unexpected_model_load():
+        pytest.fail("Invalid requests must not reach the model")
+
+    monkeypatch.setattr(main, "get_model", unexpected_model_load)
+    r = client.post("/predict", json={**VALID, "record_id": "R1"})
+    assert r.status_code == 422
+
+
+def test_missing_field_rejected_before_model(client, monkeypatch):
+    def unexpected_model_load():
+        pytest.fail("Invalid requests must not reach the model")
+
+    monkeypatch.setattr(main, "get_model", unexpected_model_load)
+    body = {key: value for key, value in VALID.items() if key != "wing"}
+    assert client.post("/predict", json=body).status_code == 422
